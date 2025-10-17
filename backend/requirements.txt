@@ -1,0 +1,22 @@
+# Backend
+Flask==2.3.3
+Flask-Cors==3.0.10
+requests==2.31.0
+python-dotenv==1.0.1
+
+# LangChain et RAG
+langchain==0.1.0
+openai==1.32.0
+tiktoken==0.4.0
+faiss-cpu==1.12.0
+
+
+# NLP / Transformers
+transformers==4.35.0
+torch==2.2.0
+
+# Manipulation documents
+python-docx==1.1.2
+
+PyPDF2==3.0.1
+

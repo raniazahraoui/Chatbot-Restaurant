@@ -1,0 +1,13 @@
+Nom: La Belle Assiette
+Cuisine: Française et méditerranéenne
+Horaires:
+  Lundi à Vendredi: 12h00-15h00 / 19h00-22h30
+  Samedi et Dimanche: 12h00-15h30 / 19h00-23h00
+Menu:
+  Entrées: Salade niçoise 8€, Soupe à l'oignon 7€, Foie gras 12€
+  Plats: Boeuf bourguignon 18€, Poulet rôti aux herbes 16€, Ratatouille 14€
+  Desserts: Crème brûlée 6€, Tarte Tatin 6€, Mousse au chocolat 5€
+Options spéciales: Menu végétarien 15€, Menu enfant 10€, plats sans gluten
+Réservations: Téléphone 01 23 45 67 89, site web
+Adresse: 123 Rue du Gourmet, 75000 Paris
+Services: Livraison 5 km, sur place, à emporter
